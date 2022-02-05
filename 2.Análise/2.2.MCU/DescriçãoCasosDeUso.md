@@ -22,14 +22,14 @@
    - **fluxo padrão**: o usuário preencherá o título, descrição e atribui as categorias pré-cadastradas que identificaram nesse chamado. Não obstante, o sistema irá vincular os dados do usuário ao chamado; 
    - **exceção**: o usuário irá receber uma mensagem de erro na tela informando a falha do sistema ao realizar a ação;
 
-### CdU 03: Listar histórico dos chamados
+### CdU 03: Listar histórico de chamados
    - **descrição**: O sistema deve permitir o usuário de visualizar em formato de lista os seus chamados anteriores;
    - **pré-condição**: o usuário deve estar logado ao sistema;
    - **pós-condição**: todos os chamados do usuários serão exibidos em uma lista;
    - **fluxo padrão**: é exibida uma lista com todos os chamados do usuário, exibindo todos os dados e possibilitando a edição daqueles chamados que não foram atendidos;
    - **exceção**: caso o usuário não possua chamados será exibido uma mensagem de "Histórico vazio." senão irá receber uma mensagem de erro na tela informando a falha do sistema ao realizar a ação;
 
-### CdU 04: Receber identificador para acompanhamento
+### CdU 04: Receber identificador de acompanhamento
    - **descrição**: O sistema deve permitir o usuário de receber um identificador para fácil recuperação cada um de seus chamados anteriores;
    - **pré-condição**: o usuário deve ter cadastrado o chamado;
    - **pós-condição**: será informado o identificador;
