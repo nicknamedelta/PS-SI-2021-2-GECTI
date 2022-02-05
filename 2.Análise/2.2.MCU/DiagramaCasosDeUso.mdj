@@ -708,11 +708,11 @@
 												"$ref": "AAAAAAF7hA+91/oB2jA="
 											},
 											"font": "Arial;13;1",
-											"left": 591,
+											"left": 601,
 											"top": 59.5,
-											"width": 231,
+											"width": 278,
 											"height": 13,
-											"text": "Receber código de acompanhamento"
+											"text": "Receber identificador de acompanhamento"
 										},
 										{
 											"_type": "LabelView",
@@ -743,9 +743,9 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 586,
+									"left": 596,
 									"top": 52.5,
-									"width": 241.16259765625,
+									"width": 288,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF7hA+91/oCusM="
@@ -845,7 +845,7 @@
 							"containerChangeable": true,
 							"left": 536,
 							"top": 48,
-							"width": 341,
+							"width": 408,
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAF7hA+91/oB2jA="
@@ -889,8 +889,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 635,
-									"top": 99,
+									"left": 653,
+									"top": 98,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -909,12 +909,12 @@
 										"$ref": "AAAAAAF7hBArcPptA8g="
 									},
 									"font": "Arial;13;0",
-									"left": 598,
-									"top": 88,
+									"left": 608,
+									"top": 103,
 									"width": 55.65625,
 									"height": 13,
-									"alpha": 1.5707963267948966,
-									"distance": 30,
+									"alpha": -3.9924434047976387,
+									"distance": 27.892651361962706,
 									"hostEdge": {
 										"$ref": "AAAAAAF7hBArc/pvR9E="
 									},
@@ -932,8 +932,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 654,
-									"top": 122,
+									"left": 670,
+									"top": 123,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -951,7 +951,7 @@
 								"$ref": "AAAAAAF7hAoYRPgEBZM="
 							},
 							"lineStyle": 1,
-							"points": "606:151;685:83",
+							"points": "612:151;712:83",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF7hBArc/pwk7I="
@@ -1855,12 +1855,12 @@
 										"$ref": "AAAAAAF7hBhSqAAofR8="
 									},
 									"font": "Arial;13;0",
-									"left": 672,
-									"top": 587,
+									"left": 664,
+									"top": 576,
 									"width": 53.49169921875,
 									"height": 13,
-									"alpha": 1.5707963267948966,
-									"distance": 30,
+									"alpha": 1.071066718711668,
+									"distance": 24.758836806279895,
 									"hostEdge": {
 										"$ref": "AAAAAAF7hBhSqAAqyh4="
 									},
@@ -2149,12 +2149,12 @@
 										"$ref": "AAAAAAF7h9xfOUcEc60="
 									},
 									"font": "Arial;13;0",
-									"left": 722,
-									"top": 521,
+									"left": 704,
+									"top": 511,
 									"width": 53.49169921875,
 									"height": 13,
-									"alpha": 2.472302032842677,
-									"distance": 34.36568055487916,
+									"alpha": 2.3220396916028654,
+									"distance": 13.45362404707371,
 									"hostEdge": {
 										"$ref": "AAAAAAF7h9xfOUcGyQo="
 									},
@@ -5609,8 +5609,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 937,
-									"top": 1020,
+									"left": 935,
+									"top": 1008,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -5629,12 +5629,12 @@
 										"$ref": "AAAAAAF7ie3TL4OeeeU="
 									},
 									"font": "Arial;13;0",
-									"left": 893,
-									"top": 1020,
+									"left": 928,
+									"top": 984,
 									"width": 53.49169921875,
 									"height": 13,
-									"alpha": 0.7250322497115751,
-									"distance": 24.698178070456937,
+									"alpha": 3.6760813343582712,
+									"distance": 20.591260281974,
 									"hostEdge": {
 										"$ref": "AAAAAAF7ie3TL4Ogqoc="
 									},
@@ -5652,8 +5652,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 940,
-									"top": 991,
+									"left": 936,
+									"top": 979,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -5671,7 +5671,7 @@
 								"$ref": "AAAAAAF7ie0ouIDojdY="
 							},
 							"lineStyle": 1,
-							"points": "1015:1018;863:1006",
+							"points": "1015:1012;936:1000;863:998",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF7ie3TL4Oh0UA="
@@ -5822,12 +5822,12 @@
 										"$ref": "AAAAAAF7ihPAeoBB7VI="
 									},
 									"font": "Arial;13;0",
-									"left": 764,
-									"top": 896,
+									"left": 824,
+									"top": 887,
 									"width": 53.49169921875,
 									"height": 13,
-									"alpha": 1.5707963267948966,
-									"distance": 30,
+									"alpha": 4.346898150693841,
+									"distance": 31.016124838541646,
 									"hostEdge": {
 										"$ref": "AAAAAAF7ihPAfIBD78I="
 									},
@@ -6679,11 +6679,11 @@
 									},
 									"font": "Arial;13;0",
 									"left": 696,
-									"top": 671,
+									"top": 655,
 									"width": 53.49169921875,
 									"height": 13,
-									"alpha": 1.5707963267948966,
-									"distance": 30,
+									"alpha": 1.8219746590715755,
+									"distance": 15.264337522473747,
 									"hostEdge": {
 										"$ref": "AAAAAAF7iimiOAsA0O8="
 									},
@@ -7065,11 +7065,11 @@
 												"$ref": "AAAAAAF7rGBcU7jU3yo="
 											},
 											"font": "Arial;13;1",
-											"left": 950,
+											"left": 958,
 											"top": 715.5,
-											"width": 341,
+											"width": 379,
 											"height": 13,
-											"text": "Calcular frequência de chamados com determinada tag"
+											"text": "Calcular frequência de chamados com determinada categoria"
 										},
 										{
 											"_type": "LabelView",
@@ -7100,9 +7100,9 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 945,
+									"left": 953,
 									"top": 708.5,
-									"width": 351.7197265625,
+									"width": 390.021484375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF7rGBcU7jVguI="
@@ -7202,7 +7202,7 @@
 							"containerChangeable": true,
 							"left": 872,
 							"top": 704,
-							"width": 497,
+							"width": 551,
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAF7rGBcU7jU3yo="
@@ -7835,7 +7835,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 846,
-									"top": 717,
+									"top": 718,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -7855,7 +7855,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 872,
-									"top": 735,
+									"top": 736,
 									"width": 55.65625,
 									"height": 13,
 									"alpha": -0.11841443833147158,
@@ -7878,7 +7878,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 847,
-									"top": 746,
+									"top": 747,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -7896,7 +7896,7 @@
 								"$ref": "AAAAAAF7ieog8F4196Q="
 							},
 							"lineStyle": 1,
-							"points": "824:740;871:737",
+							"points": "824:740;871:738",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF7rGVpISJijig="
@@ -8512,12 +8512,12 @@
 										"$ref": "AAAAAAF8PWYLcq36OzI="
 									},
 									"font": "Arial;13;0",
-									"left": 815,
-									"top": 1051,
+									"left": 840,
+									"top": 1031,
 									"width": 53.49169921875,
 									"height": 13,
-									"alpha": 1.5707963267948966,
-									"distance": 30,
+									"alpha": 2.743747110848191,
+									"distance": 26.92582403567252,
 									"hostEdge": {
 										"$ref": "AAAAAAF8PWYLcq38xss="
 									},
@@ -8736,7 +8736,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF7g+mo3/fx7ao="
 					},
-					"name": "Receber código de acompanhamento",
+					"name": "Receber identificador de acompanhamento",
 					"ownedElements": [
 						{
 							"_type": "UMLInclude",
@@ -9438,7 +9438,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF7g+mo3/fx7ao="
 					},
-					"name": "Calcular frequência de chamados com determinada tag",
+					"name": "Calcular frequência de chamados com determinada categoria",
 					"ownedElements": [
 						{
 							"_type": "UMLInclude",
