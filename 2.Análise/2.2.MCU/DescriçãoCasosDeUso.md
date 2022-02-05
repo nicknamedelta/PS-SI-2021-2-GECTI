@@ -133,3 +133,10 @@
    - **pós-condição**: o sistema irá exibir os relatórios gerados;
    - **fluxo padrão**: o administrador irá clicar em "Gerar Relatório" e será gerado um relatório com informações pertinentes ao administrador a respeito da frequência dos chamados de uma categoria;
    - **exceção**: o administrador irá receber uma mensagem de erro na tela informando a falha do sistema ao realizar a ação;
+
+### CdU 19: Apresentar tempo médio de atendimento dos chamados
+   - **descrição**:  O sistema deve permitir o administrador de gerar relatórios referentes a média de tempo de chamados semelhantes(e.g. média de tempo dos chamados da categoria X);
+   - **pré-condição**: o administrador deve estar logado ao sistema;
+   - **pós-condição**: o sistema irá exibir os relatórios gerados;
+   - **fluxo padrão**: o administrador irá clicar em "Gerar Relatório" e será gerado um relatório com informações pertinentes ao administrador a respeito do tempo médio dos chamados de uma categoria;
+   - **exceção**: o administrador irá receber uma mensagem de erro na tela informando a falha do sistema ao realizar a ação;
