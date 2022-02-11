@@ -1,4 +1,4 @@
-# Requisitos Funcionais - GECTI
+# Requisitos Funcionais: GErenciador de Chamados de TI - GECTI
 
 ## Descrição da situação
 
