@@ -1,4 +1,4 @@
-# Descrição dos Casos de Uso
+# Descrição dos Casos de Uso: GErenciador de Chamados de TI - GECTI
 
 ## Descrição dos Atores
 
