@@ -1,4 +1,4 @@
-# GErenciador de Chamados de TI
+# GErenciador de Chamados de TI - GECTI
 
 Um sistema para gerenciar os chamados de TI.
 
