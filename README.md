@@ -1,6 +1,6 @@
 # GErenciador de Chamados de TI - GECTI
 
-Um sistema para gerenciar os chamados de TI.
+Um sistema estruturado para gerenciar os chamados de TI.
 
 ## Equipe com seus respectivos membros
 
