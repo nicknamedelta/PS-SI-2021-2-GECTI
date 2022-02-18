@@ -1,0 +1,367 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Diagrama de Arquitetura",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAFF+qBtyKM79qY=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "DiagramaArquitetura",
+					"defaultDiagram": true,
+					"ownedViews": [
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAF/CafpXQ6Kvwc=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 256,
+							"top": 1096,
+							"width": 344,
+							"height": 240
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAF/CZXuPA1dTW0=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 152,
+							"top": 144,
+							"width": 432,
+							"height": 224
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAF/CZVHmg1Skos=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 192,
+							"top": 232,
+							"width": 153,
+							"height": 73,
+							"text": "Criação de colunas e tabelas",
+							"horzAlign": 2,
+							"vertAlign": 5
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAF/CZYRCA1kctM=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 168,
+							"top": 160,
+							"width": 128.47265625,
+							"height": 51,
+							"text": "Banco de Dados(POSTGRES)"
+						},
+						{
+							"_type": "RectangleView",
+							"_id": "AAAAAAF/CZZemQ1s/GY=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 152,
+							"top": 556,
+							"width": 432,
+							"height": 224
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAF/CZZemg1up3s=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 408,
+							"top": 696,
+							"width": 89,
+							"height": 45,
+							"text": "Controllers",
+							"horzAlign": 2,
+							"vertAlign": 5
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAF/CZZemg1vsPM=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 160,
+							"top": 736,
+							"width": 128.47265625,
+							"height": 38,
+							"text": "Back-end(Ruby on Rails)"
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAF/CZk30Q2MXfc=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 408,
+							"top": 600,
+							"width": 89,
+							"height": 49,
+							"text": "Models",
+							"horzAlign": 2,
+							"vertAlign": 5
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAF/CZmahA2XQ8c=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 216,
+							"top": 600,
+							"width": 89,
+							"height": 45,
+							"text": "Migrations",
+							"horzAlign": 2,
+							"vertAlign": 5
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAF/CZngMA2etjU=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 384,
+							"top": 232,
+							"width": 153,
+							"height": 73,
+							"text": "Manipulação de Dados(Inserção, Remoção, Atualização e Visualização)",
+							"horzAlign": 2,
+							"vertAlign": 5
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAF/CZu/rQ3CVTQ=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "264:304;265:600",
+							"tailEndStyle": 2
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAF/CZ0cuw3UDOo=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "448:696;448:648",
+							"headEndStyle": 2
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAF/CZ9W/Q3oyB8=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "456:600;456:304",
+							"headEndStyle": 2
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAF/CaECcw4ZYyo=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 368,
+							"top": 888,
+							"width": 169,
+							"height": 103,
+							"text": "JSON(JavaScript Object Notation, formato utilizado para comunicação cliente-servidor)",
+							"horzAlign": 2,
+							"vertAlign": 5
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAF/CaI2uw4lOY4=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "448:888;448:744",
+							"headEndStyle": 2
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAF/CaRTVw4+2Zs=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 480,
+							"top": 1136,
+							"width": 89,
+							"height": 45,
+							"text": "Services",
+							"horzAlign": 2,
+							"vertAlign": 5
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAF/CaSQcg5FWwA=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 296,
+							"top": 1271,
+							"width": 89,
+							"height": 45,
+							"text": "Pages",
+							"horzAlign": 2,
+							"vertAlign": 5
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAF/CaS4HA5KSpk=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 296,
+							"top": 1136,
+							"width": 89,
+							"height": 45,
+							"text": "Hooks",
+							"horzAlign": 2,
+							"vertAlign": 5
+						},
+						{
+							"_type": "UMLTextBoxView",
+							"_id": "AAAAAAF/CaS+MA5OxwA=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 480,
+							"top": 1272,
+							"width": 89,
+							"height": 45,
+							"text": "Components",
+							"horzAlign": 2,
+							"vertAlign": 5
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAF/CaVDGw5Wl8o=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "480:1288;384:1288",
+							"headEndStyle": 2
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAF/CaXTxQ5gv0Q=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "336:1272;337:1184",
+							"headEndStyle": 2
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAF/Caa2Gw51wEM=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "520:1184;521:1270",
+							"headEndStyle": 2,
+							"tailEndStyle": 2
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAF/CacA1w58bBE=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "384:1152;480:1153",
+							"headEndStyle": 2
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAF/CadOQw6Afhk=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "456:992;520:1134",
+							"headEndStyle": 2,
+							"tailEndStyle": 2
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAF/CagmQg6QFvU=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;13;0",
+							"left": 256,
+							"top": 1104,
+							"width": 128.47265625,
+							"height": 38,
+							"text": "Front-end(React.js)"
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAF/CamjCQ6WjmA=",
+							"_parent": {
+								"$ref": "AAAAAAFF+qBtyKM79qY="
+							},
+							"font": "Arial;16;0",
+							"left": 208,
+							"top": 104,
+							"width": 337,
+							"height": 28,
+							"text": "GErenciador de Chamados de TI - GECTI"
+						}
+					]
+				}
+			]
+		}
+	]
+}
